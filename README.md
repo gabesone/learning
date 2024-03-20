@@ -2,4 +2,4 @@
 
 ### Back End Development and APIs
 
-- [ ] Managing Packages with NPM
+- [x] Managing Packages with NPM
